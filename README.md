@@ -2,7 +2,7 @@
 
 Some Points which can be useful while using this library
 
-1. include SegmentTree.h
+1. include segmentTree.cpp file
 
 2. to construct a segment tree you need to specify the following:
    a. The datatype of array for which the tree is being constructed.
