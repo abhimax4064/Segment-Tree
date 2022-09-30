@@ -1,3 +1,4 @@
+//author: maxifier
 #ifndef SEGMENTTREE_H
 #define SEGMENTTREE_H
 #define left(i) (2*i + 1)
@@ -130,4 +131,4 @@ template<class T> void SegmentTree<T>::update(int idx, T val)
     }
 }
 
-#endif // SEGMENTTREE_H
+#endif 
